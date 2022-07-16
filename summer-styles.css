@@ -1,0 +1,84 @@
+/* nav section */
+.nav-bar{
+  height: 5rem;
+  color: #fff;
+  background-color: grey;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo{
+  height: 3rem;
+  width: 8rem;
+  padding-left: 3rem;
+}
+.jumbotron{
+  color: pink;
+}
+.nav-element:hover{
+  color: #fff;
+  background-color: pink;
+  border-bottom: 2px solid;
+}
+.nav-element:hover{
+  color: #fff;
+  border-bottom: 2px solid;
+}
+.deal-btn{
+  border: none;
+  background-color:  transparent;
+  color: white;
+  font-size: 1.2rem;
+    height: 5rem;
+}
+.summer-btn{
+  border: none;
+  background-color: pink;
+  color: white;
+  font-size: 1.2rem;
+    height: 5rem;
+}
+.deal2-btn{
+  border: none;
+  background-color: transparent;
+  color: white;
+  font-size: 1.2rem;
+  height: 5rem;
+  padding-right: 3rem;
+}
+/* main body */
+.containers{
+  margin: 0 1rem;
+}
+.pic{
+  width: 100%;
+}
+.dive{
+  margin: 10px 0;
+}
+.testimonial{
+  display: flex;
+  justify-content: space-between;
+  margin: 5rem 0;
+}
+.first{
+  color: grey;
+  background-color: #F0EBE3;
+  width: 21rem;
+  margin: 0 3rem;
+}
+/* footer */
+.footer{
+  background-color: grey;
+  display: flex;
+  height: 3rem;
+  color: #fff;
+}
+p{
+  margin: 0 10px;
+}
+a{
+  color: inherit;
+  border: none;
+}
